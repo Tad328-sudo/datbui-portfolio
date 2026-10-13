@@ -1,0 +1,207 @@
+[
+  {
+    "id": "cip-series",
+    "title": "Series Talkshow 'Check In Cùng Phúc'",
+    "category": "long-form",
+    "role": "Multi-cam & Audio Mixing",
+    "timeline": "2026",
+    "description": "Biên tập chuỗi talkshow trải nghiệm phong cách sống từ Tập 1 đến Tập 8. Đồng bộ âm thanh đa luồng, dựng multi-cam và kiểm soát mạch cảm xúc dài tập.",
+    "driveUrl": "https://drive.google.com/drive/folders/1HIgh63ACwNhAFbs_st-MjXFi3PmGO8fI",
+    "tags": [
+      "Talkshow",
+      "Long-form",
+      "Multi-cam",
+      "Color Grading"
+    ],
+    "episodes": [
+      "Tập 1",
+      "Tập 2",
+      "Tập 3",
+      "Tập 4",
+      "Tập 5",
+      "Tập 6",
+      "Tập 8"
+    ],
+    "thumbnail": "/media/cip-series.jpg",
+    "en": {
+      "title": "\"Check In With Phuc\" — 8-Episode Talkshow Series",
+      "role": "Lead Editor (Multi-Cam & Audio Sync)",
+      "description": "End-to-end post-production for an 8-episode lifestyle talkshow. Synced 3-camera angles, multi-track dialogue mastering, and dynamic conversational pacing.",
+      "tags": [
+        "Talkshow",
+        "Long-form",
+        "Multi-cam",
+        "Color Grading"
+      ],
+      "episodes": [
+        "Ep. 1",
+        "Ep. 2",
+        "Ep. 3",
+        "Ep. 4",
+        "Ep. 5",
+        "Ep. 6",
+        "Ep. 8"
+      ]
+    }
+  },
+  {
+    "id": "metta-event-q1",
+    "title": "Recap Khai Trương Metta Quận 1",
+    "category": "commercial",
+    "role": "Video Editor / Sound Design",
+    "timeline": "09/2026",
+    "description": "Video recap sự kiện khai trương cơ sở Metta Spa Quận 1. Nhịp dựng dồn dập, chuyển cảnh theo beat nhạc và phối màu không gian ấm cúng sang trọng.",
+    "driveUrl": "https://drive.google.com/file/d/1Iqy-YGQw9E5hUyG09dBXciSAzAVDVhNM/view?usp=sharing",
+    "tags": [
+      "Event Recap",
+      "Music Beat Sync",
+      "Commercial"
+    ],
+    "thumbnail": "/media/metta-event-q1.png",
+    "en": {
+      "title": "Metta Flagship Grand Opening Recap",
+      "role": "Video Editor & Colorist",
+      "description": "High-energy event recap for a luxury spa flagship in District 1. Beat-synced transitions, speed ramping, and warm luxury color grading.",
+      "tags": [
+        "Event Recap",
+        "Beat-Synced Cuts",
+        "Commercial"
+      ]
+    }
+  },
+  {
+    "id": "metta-training",
+    "title": "Chuỗi Video Đào Tạo KTV Metta",
+    "category": "training",
+    "role": "Hệ thống 16+ video chuyên môn",
+    "timeline": "09/2026",
+    "description": "Hệ thống video chuẩn hóa kỹ thuật massage body, đả thông kinh lạc cơ cao hoan, kỹ thuật lực chân và chỉnh sửa lỗi cho học viên.",
+    "driveUrl": "https://drive.google.com/drive/folders/1ljcWzSLoSIqNXENY_r8qo1BYgr7mn5sP",
+    "tags": [
+      "Education",
+      "Training",
+      "Chuyên Môn",
+      "Góc Quay Cận"
+    ],
+    "badgeExtra": "16+ Video",
+    "thumbnail": "/media/metta-training.png",
+    "en": {
+      "title": "16-Part Technician SOP Training Suite",
+      "role": "Video Editor",
+      "description": "Standardized educational video series covering anatomy, acupressure techniques, and posture correction with clear close-up callouts.",
+      "tags": [
+        "Education",
+        "Training",
+        "SOP",
+        "Close-Up Coverage"
+      ],
+      "badgeExtra": "16+ Videos"
+    }
+  },
+  {
+    "id": "metta-therapy-shorts",
+    "title": "Series Video Trị Liệu Dưỡng Sinh Đông Y",
+    "category": "short-form",
+    "role": "Editor & Motion Text ASMR",
+    "timeline": "09/2026",
+    "description": "Các video ngắn TikTok/Reels về giải tỏa đau mỏi thắt lưng, đả thông kinh lạc cổ vai gáy và huyệt đạo thư giãn.",
+    "driveUrl": "https://drive.google.com/drive/folders/1iuXIRkCnDlq3b3mxh2Ig0lCYaTQiWAv-",
+    "tags": [
+      "Short-form",
+      "Reels/TikTok",
+      "Chăm Sóc Sức Khỏe",
+      "Sound Design"
+    ],
+    "thumbnail": "/media/metta-therapy-shorts.png",
+    "en": {
+      "title": "Holistic Therapy & ASMR Wellness Reels",
+      "role": "Editor & Motion Typography",
+      "description": "Short-form social series highlighting therapeutic massage and pain relief, enhanced with tactile ASMR sound design and clean visual callouts.",
+      "tags": [
+        "Short-form",
+        "Reels/TikTok",
+        "Wellness",
+        "Sound Design"
+      ]
+    }
+  },
+  {
+    "id": "vie-beauty-makeover",
+    "title": "Chiến Dịch Video Biến Hình & Định Giá Vie Beauty",
+    "category": "short-form",
+    "role": "Before/After & Visual Retouch",
+    "timeline": "07/2026 - 09/2026",
+    "description": "Video short-form định vị thẩm mỹ chân mày Gen Z, clip biến hình khách nữ trước - sau và video giải đáp thắc mắc dịch vụ.",
+    "driveUrl": "https://drive.google.com/drive/folders/13K3aInhVklIx4VYm7sTUk7NprwAIsIke",
+    "tags": [
+      "TikTok Before/After",
+      "Thẩm Mỹ",
+      "Beauty",
+      "Pacing Nhanh"
+    ],
+    "thumbnail": "/media/vie-beauty-makeover.png",
+    "en": {
+      "title": "Vie Beauty Makeover & Pricing Strategy Reels",
+      "role": "Video Editor & Retoucher",
+      "description": "High-converting TikTok/Reels campaign featuring before/after brow transformations and fast-paced educational hooks for Gen-Z audiences.",
+      "tags": [
+        "TikTok Before/After",
+        "Aesthetics",
+        "Beauty",
+        "Fast Pacing"
+      ]
+    }
+  },
+  {
+    "id": "pt-mobile-tech",
+    "title": "Series TikTok Bóc Phốt & Mẹo Công Nghệ Phương Tuấn Mobile",
+    "category": "short-form",
+    "role": "Talking Head & Tối ưu Hook 3s",
+    "timeline": "2024 - 2026",
+    "description": "Chuỗi video TikTok Talking Head bóc tách kỹ thuật, so sánh thiết bị iPhone, tối ưu 3 giây đầu giữ chân người xem tự nhiên.",
+    "driveUrl": "https://drive.google.com/drive/folders/13jO7_hlgk0U7HrazATPt-lv3Cox-Mepc?usp=sharing",
+    "tags": [
+      "Talking Head",
+      "Công Nghệ",
+      "Tối Ưu Hook",
+      "TikTok Trending"
+    ],
+    "thumbnail": "/media/pt-mobile-tech.jpg",
+    "en": {
+      "title": "Tech Retail & iPhone Buyers Guide Series",
+      "role": "Content Creator & Video Editor",
+      "description": "Organic TikTok talking-head series dissecting smartphone hardware, trade-in tips, and iOS hacks, engineered for 3-second hook retention.",
+      "tags": [
+        "Talking Head",
+        "Tech",
+        "Hook Optimization",
+        "TikTok Trending"
+      ]
+    }
+  },
+  {
+    "id": "stpark-postpartum",
+    "title": "Kiến Thức Y Khoa & Chăm Sóc Mẹ Bé ST.PARK Care",
+    "category": "training",
+    "role": "Editor & Motion Infographic",
+    "timeline": "09/2026",
+    "description": "Video tư vấn dấu hiệu tắc tia sữa, kiến thức phục hồi sau sinh và nuôi con bằng sữa mẹ chuẩn y khoa.",
+    "driveUrl": "https://drive.google.com/drive/folders/19Q9oohgAOrs4f0B5Yrks1DdcDy4i-kn0",
+    "tags": [
+      "Medical/Health",
+      "Infographic Video",
+      "Chăm Sóc Hậu Sản"
+    ],
+    "thumbnail": "/media/stpark-postpartum.png",
+    "en": {
+      "title": "Postpartum & Pediatric Care Explainer Series",
+      "role": "Video Editor & Motion Graphics",
+      "description": "Medical educational videos for new mothers, blending trustworthy clinical tone with clean motion infographics.",
+      "tags": [
+        "Medical/Health",
+        "Infographic Video",
+        "Postpartum Care"
+      ]
+    }
+  }
+]
